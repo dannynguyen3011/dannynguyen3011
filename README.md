@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dannynguyen3011
+- 👋 Hi, I’m Nguyen Manh Dung
 - 👀 I’m interested in coding (game, web)
 - 🌱 I’m currently learning Software Development in Swinburne Vietnam
 - 📫 How to reach me through 
