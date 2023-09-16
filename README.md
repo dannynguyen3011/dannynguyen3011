@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nguyen Manh Dung
 - 👀 I’m interested in coding (game, web)
-- 🌱 I’m currently learning Software Development in Swinburne Vietnam
+- 🌱 I’m currently learning Software Development in Swinburne University of Technology - Hawthorn Campus
 - 📫 How to reach me through 
   Email: dungnguyen15482@gmail.com
   Facebook: https://www.facebook.com/dungoc3011
