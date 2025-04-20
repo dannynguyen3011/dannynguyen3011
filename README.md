@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding (game, web)
 - 🌱 I’m currently learning Software Development in Swinburne University of Technology - Hawthorn Campus
 - 📫 How to reach me through 
-  Email: dungnguyen15482@gmail.com
+  Email: dannywork3011@gmail.com
   Facebook: https://www.facebook.com/dungoc3011
   Instagram: https://www.instagram.com/gnudnolimit/
 
